@@ -212,18 +212,11 @@ desafio-fullstack-justtravel/
 
 ## 👨‍💻 DESENVOLVEDOR
 
-**Nome:** [Seu Nome]  
-**Email:** [seu.email@exemplo.com]  
-**GitHub:** [seu-github]  
-**LinkedIn:** [seu-linkedin]
+**Nome:** Josué Chagas
+**Email:** Josuepereirajp7@gmail.com 
+
 
 ---
-
-## 📞 CONTATO JUST TRAVEL
-
-**Para dúvidas sobre o projeto:**
-- claudia.cruz@justtraveltour.com
-- kalebe.oliveira@justtraveltour.com
 
 ---
 
@@ -231,7 +224,7 @@ desafio-fullstack-justtravel/
 
 Este projeto demonstra capacidade de desenvolvimento fullstack moderno, desde a arquitetura até a implementação final. O sistema vai muito além do solicitado, mostrando proatividade e habilidades técnicas avançadas.
 
-**🎮 READY TO JOIN THE JUST TRAVEL TEAM! 🚀**
+
 
 ---
 
